@@ -25,7 +25,7 @@ I am continuously improving my skills by working on real-world projects involvin
 
 ## Projects
 
-###  Finance Dashboard Project
+###  Finance and Accounting Analytics Project
 - Built an interactive financial dashboard using Excel and Power BI.
 - Analyzed Revenue, Expenses, Gross Profit, and Net Profit.
 - Created KPI dashboards and business insights.
